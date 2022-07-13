@@ -1,2 +1,2 @@
 resources:
-#- secrets/ibm-entitled-key-secret.yaml
+- secrets/ibm-entitled-key-secret.yaml
